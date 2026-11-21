@@ -1,0 +1,14 @@
+storycoach
+Copyright 2026 Vudepchai2
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Third-party software
+--------------------
+This engine depends on praat-parselmouth, which is licensed under the
+GNU General Public License v3 or later (GPLv3+). It is not bundled here. It is
+installed separately from PyPI when you install storycoach, and you receive it
+under its own licence.
+
+The other direct dependencies, faster-whisper, ctranslate2, numpy, av and
+sounddevice, are under permissive licences (MIT, BSD or similar).

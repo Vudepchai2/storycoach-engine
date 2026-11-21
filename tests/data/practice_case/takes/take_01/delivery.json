@@ -1,0 +1,13 @@
+{
+  "base_hz": 180.0,
+  "base_db": 62.0,
+  "seed": 1,
+  "segments": [
+    {
+      "start_word": 12,
+      "end_word": 15,
+      "db": -3.0,
+      "pitch_sd_scale": 0.5
+    }
+  ]
+}

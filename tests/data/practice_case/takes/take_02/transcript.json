@@ -1,0 +1,130 @@
+{
+  "text": "Last spring our bakery closed The oven broke during the big order Maria fixed it overnight We delivered on time Please back our second shop",
+  "words": [
+    {
+      "text": "Last",
+      "start": 0.3,
+      "end": 0.48
+    },
+    {
+      "text": "spring",
+      "start": 0.54,
+      "end": 0.78
+    },
+    {
+      "text": "our",
+      "start": 0.84,
+      "end": 1.11
+    },
+    {
+      "text": "bakery",
+      "start": 1.17,
+      "end": 1.41
+    },
+    {
+      "text": "closed",
+      "start": 1.47,
+      "end": 1.71
+    },
+    {
+      "text": "The",
+      "start": 2.61,
+      "end": 2.88
+    },
+    {
+      "text": "oven",
+      "start": 2.94,
+      "end": 3.12
+    },
+    {
+      "text": "broke",
+      "start": 3.18,
+      "end": 3.39
+    },
+    {
+      "text": "during",
+      "start": 3.45,
+      "end": 3.69
+    },
+    {
+      "text": "the",
+      "start": 3.75,
+      "end": 4.02
+    },
+    {
+      "text": "big",
+      "start": 4.08,
+      "end": 4.35
+    },
+    {
+      "text": "order",
+      "start": 4.41,
+      "end": 4.62
+    },
+    {
+      "text": "Maria",
+      "start": 4.68,
+      "end": 4.89
+    },
+    {
+      "text": "fixed",
+      "start": 4.95,
+      "end": 5.16
+    },
+    {
+      "text": "it",
+      "start": 5.22,
+      "end": 5.46
+    },
+    {
+      "text": "overnight",
+      "start": 5.52,
+      "end": 5.73
+    },
+    {
+      "text": "We",
+      "start": 6.63,
+      "end": 6.87
+    },
+    {
+      "text": "delivered",
+      "start": 6.93,
+      "end": 7.14
+    },
+    {
+      "text": "on",
+      "start": 7.2,
+      "end": 7.44
+    },
+    {
+      "text": "time",
+      "start": 7.5,
+      "end": 7.68
+    },
+    {
+      "text": "Please",
+      "start": 8.58,
+      "end": 8.82
+    },
+    {
+      "text": "back",
+      "start": 8.88,
+      "end": 9.06
+    },
+    {
+      "text": "our",
+      "start": 9.12,
+      "end": 9.39
+    },
+    {
+      "text": "second",
+      "start": 9.45,
+      "end": 9.69
+    },
+    {
+      "text": "shop",
+      "start": 9.75,
+      "end": 9.93
+    }
+  ]
+}

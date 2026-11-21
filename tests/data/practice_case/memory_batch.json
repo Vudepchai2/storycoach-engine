@@ -1,0 +1,22 @@
+{
+  "source": {
+    "kind": "said",
+    "ref": "practice"
+  },
+  "items": [
+    {
+      "type": "entity",
+      "ref": "@maria",
+      "name": "Maria Test",
+      "kind": "person"
+    },
+    {
+      "type": "moment",
+      "title": "The oven broke",
+      "what_happened": "The oven broke during the biggest order and was fixed overnight.",
+      "who": [
+        "@maria"
+      ]
+    }
+  ]
+}
